@@ -1,0 +1,20 @@
+.productimg{
+  width: 100px;
+  height: 100px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 25px;
+}
+.productdiv{
+    height: fit-content;
+    width: fit-content;
+    border: solid black 1px;
+}
+.price{
+    font-size: larger;
+    color: black;
+}
+.productname{
+    font-size: medium;
+    color: black;
+}

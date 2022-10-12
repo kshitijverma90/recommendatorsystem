@@ -1,0 +1,11 @@
+.categoriesdiv{
+    height: fit-content;
+    width: fit-content;
+    border: solid 3px black;
+    border-radius: 20px;
+
+}
+.categoryname{
+    font-size: 15px;
+    color: black;
+}
